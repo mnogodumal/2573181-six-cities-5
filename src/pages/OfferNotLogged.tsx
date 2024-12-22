@@ -188,7 +188,7 @@ function OfferNotLogged() {
                       </div>
                       <p className="reviews__text">
                         A quiet cozy and picturesque that hides behind a a river
-                        by the unique lightness of Amsterdam. The building is
+                        by the unique lightness of Amsterdadm. The building is
                         green and from 18th century.fdf
                       </p>
                       <time className="reviews__time" dateTime="2019-04-24">
