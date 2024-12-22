@@ -157,7 +157,7 @@ function OfferNotLogged() {
                   <p className="offer__text">
                     An independent House, strategically located between Rembrand
                     Square and National Opera, but where the bustle of the city
-                    comes to rest in this alley flowery and colorful.
+                    comes to rest in this alley flowery and colorful.j
                   </p>
                 </div>
               </div>
